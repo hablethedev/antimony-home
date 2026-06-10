@@ -8,7 +8,6 @@
 <svelte:head>
 	<title>Antimony - Home</title> 
 	<link rel="icon" href={favicon} />
-	<link rel="stylesheet" href={css} />
 </svelte:head>
 
 {@render children()}
