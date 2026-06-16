@@ -15,7 +15,7 @@
                 icon="startcreating.svg" // lucide my wife :3
                 label="Start Creating!" 
                 highlighted={true} 
-                link="https://antimony-editor.github.io/editor/" 
+                link="https://editor.antimony.cc"
         />
     </div>
 </div>
@@ -26,7 +26,8 @@
         
         <div class="footer-column">
             <h4>Website</h4>
-            <a href="https://antimony-editor.github.io/editor/" style="color: white;"><p>Editor</p></a> 
+            <a href="https://editor.antimony.cc" style="color: white;"><p>Editor</p></a> 
+            <a href="desktop" style="color: white;"><p>Desktop App</p></a> 
             <a href="credits" style="color: white;"><p>Credits</p></a>
             <a href="https://github.com/antimony-editor" style="color: white;"><p>GitHub</p></a>
         </div>

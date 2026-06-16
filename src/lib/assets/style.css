@@ -38,12 +38,6 @@ small {
     font-size: 0.8em;
 }
 
-/*
-Source - https://stackoverflow.com/a/66565163
-Posted by Aleks G
-Retrieved 2026-06-09, License - CC BY-SA 4.0
-*/
-
 .flex-wrapper {
   display: flex;
   min-height: 51vh;

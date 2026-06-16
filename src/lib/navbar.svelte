@@ -14,7 +14,7 @@
             <button class="dropdown" onclick={dropMenu}>x</button>
         </div>
         <div class="links" class:closed={is_navbar_closed}>
-            <a href="https://antimony-editor.github.io/editor/" style="text-decoration: none"><p>Create</p></a>
+            <a href="https://editor.antimony.cc" style="text-decoration: none"><p>Create</p></a>
             <a href="https://discord.gg/CeJVMHXhCP" style="text-decoration: none"><p>Discord</p></a>
         </div>
     </div>
