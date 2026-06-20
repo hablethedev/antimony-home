@@ -6,4 +6,7 @@ export default defineConfig({
 	server: {
       port: 7890
     }
+	build: {
+    	outDir: 'build'
+  }
 });
