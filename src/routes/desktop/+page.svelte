@@ -54,7 +54,7 @@
 
         <div class="footer-column">
             <h4>Community</h4>
-            <a href="https://github.com/vedal789/antimony-home/issues" style="color: white;"><p>Report an issue</p></a>
+            <a href="https://github.com/antimony-editor/antimony-home/issues" style="color: white;"><p>Report an issue</p></a>
             <a href="https://www.youtube.com/channel/UCuC_CpmCqhKV6g0I33s6PJQ" style="color: white;"><p>YouTube</p></a>
             <a href="https://discord.gg/CeJVMHXhCP" style="color: white;"><p>Discord</p></a>
         </div>
