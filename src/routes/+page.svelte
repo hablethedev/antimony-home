@@ -142,9 +142,10 @@
             color-mix(in srgb, var(--letter-color) 13%, transparent) 0 0 20px;
         opacity: 0;
         transform: translateY(20px) scale(0.8);
+        will-change: transform;
         animation:
             char-in 0.6s var(--in-delay) cubic-bezier(0.34, 1.56, 0.64, 1) forwards,
-            char-float 3s ease-in-out infinite var(--float-delay);
+            char-float 3s ease-in-out infinite calc(-1 * var(--float-delay));
     }
 
     @keyframes char-in {
